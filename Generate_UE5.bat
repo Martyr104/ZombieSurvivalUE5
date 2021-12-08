@@ -1,0 +1,2 @@
+"C:\Program Files\Epic Games\UE_5.0EA\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.exe"  -projectfiles -project="C:\Users\dilla\Documents\Unreal Projects\ZombieSurvivalUE5\ZombieSurvivalUE5.uproject" -game -rocket -progress
+pause
